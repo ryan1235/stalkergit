@@ -1,6 +1,6 @@
 # Git Stalker
 
-Um projeto feito em react para buscar informações sobre algum usuario do githun
+Um projeto feito em react para buscar informações sobre algum usuario do github
 
 ## Depedencias
 
